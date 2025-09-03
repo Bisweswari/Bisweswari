@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bisweswari Rath
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Web Development and Machine Learning
+- 🌱 I’m currently learning Full Stack Development and Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/bisweswari-rath-571944202
 
